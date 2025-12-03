@@ -12,7 +12,7 @@ How to use:
     pip install numpy,pandas,matplotlib
 
  2. Run:
-    python bug_fix_simulation.py
+    python simulation.py
 
 3. Edit parameters below to run different experiments. (In This project for the simulation reports and demonstration  we kept the other parameters constant and changed the developer and QA tester numbers for demonstrating their effects on average waiting time and average system time of the bug).
 
@@ -41,6 +41,7 @@ How to use:
    SAMPLE_INTERVAL = 0.5         # hours; backlog sampling granularity
    
    RANDOM_SEED_BASE = 1000       # base seed for reproducibility per replication
+
 
 
 
