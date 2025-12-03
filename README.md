@@ -9,9 +9,10 @@ Produces:
 
 How to use:
  1. Install dependencies (if needed):
-    pip install numpy pandas matplotlib
+    pip install numpy,pandas,matplotlib
 
  2. Run:
     python bug_fix_simulation.py
 
 3. Edit parameters below to run different experiments.
+
