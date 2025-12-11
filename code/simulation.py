@@ -1,6 +1,7 @@
 """
 bug_fix_simulation.py
 
+
 Discrete-event style simulation of a Bug Fix Cycle (no SimPy).
 Produces:
  - metrics.csv        : per-replication metrics
