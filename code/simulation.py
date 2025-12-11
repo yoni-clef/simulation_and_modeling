@@ -18,14 +18,14 @@ How to use:
 3. Edit parameters below to run different experiments.
 """
 
-# import random
-# import statistics
-# import os
-# import math
-# from collections import namedtuple
-# import numpy as np
-# import pandas as pd
-# import matplotlib.pyplot as plt
+import random
+import statistics
+import os
+import math
+from collections import namedtuple
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # -----------------------------
 # Simulation parameters (edit)
